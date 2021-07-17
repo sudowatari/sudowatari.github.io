@@ -7,7 +7,7 @@ font-family: sans-serif;
 
 footer {
 background-color: #222831;
-color: #E8E8E8;
+color: #E8E8E8 !important;
 }
 
 
@@ -22,7 +22,7 @@ p {
 /* Containers */
 
 .container-fluid {
-padding: 7% 15%;
+padding: 4% 15%;
 }
 
 .nav-item {
@@ -40,7 +40,7 @@ font-weight: 100;
 }
 
 .foot {
-margin: 20px 10px;
+margin: 15px 10px;
 }
 
 .top {
