@@ -52,6 +52,14 @@ margin: 20px 10px;
   text-align: left;
 }
 
+.mid {
+  padding: 15% 10%;
+}
+
+.what:hover {
+  color: red;
+}
+
 .footer {
 color: #E8E8E8;
 }
