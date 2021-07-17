@@ -1,0 +1,19 @@
+
+body {
+text-align: center;
+}
+
+footer {
+background-color: #343A40;
+color: #E1E8EB;
+}
+
+/* Containers */
+
+.container-fluid {
+padding: 7% 15%;
+}
+
+.foot {
+margin: 20px 10px;
+}
