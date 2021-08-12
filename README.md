@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-<!--
-**sudowatari/sudowatari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+v2 - Aug 11 2021
+Style based off Wes Bos' lesson from Beginner Javascript.
 
-Here are some ideas to get you started:
+v1 - July 2021
+Style based off Angela Yu's lesson from Web Development Course
 
-- 🔭 I’m currently working on a basic website
-- 🌱 I’m currently learning how to code
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about my furkids
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
